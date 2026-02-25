@@ -1,0 +1,19 @@
+{
+  "name": "welcomebot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.95",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "mongoose": "^9.2.2",
+    "undici": "^7.22.0"
+  }
+}

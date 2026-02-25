@@ -1,0 +1,10 @@
+{
+    "setup_success": "✅ Sistem ayarları başarıyla güncellendi!",
+    "setup_fail": "❌ Ayarlar kaydedilirken bir hata oluştu.",
+    "setup_empty": "❌ Güncellenecek herhangi bir ayar girmediniz.",
+    "rules_button": "Kuralları Oku",
+    "rules_read": "Lütfen sunucu kuralları kanalını okuduğunuzdan emin olun. Kurallara uymamak uzaklaştırma sebebidir.",
+    "fake_account_kick": "Güvenlik nedeniyle {{server}} sunucusundan uzaklaştırıldınız. (Yeni hesap)",
+    "suspicious_account": "⚠️ Şüpheli Hesap",
+    "suspicious_desc": "<@{{user}}> katıldı ancak hesabı sadece **{{days}}** günlük!"
+}

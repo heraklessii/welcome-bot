@@ -1,0 +1,10 @@
+{
+    "setup_success": "✅ System settings have been updated successfully!",
+    "setup_fail": "❌ An error occurred while saving the settings.",
+    "setup_empty": "❌ You did not provide any settings to update.",
+    "rules_button": "Read Rules",
+    "rules_read": "Please make sure to read the server rules channel. Failure to comply may result in a ban.",
+    "fake_account_kick": "You have been kicked from {{server}} for security reasons. (New account)",
+    "suspicious_account": "⚠️ Suspicious Account",
+    "suspicious_desc": "<@{{user}}> joined, but their account is only **{{days}}** days old!"
+}
